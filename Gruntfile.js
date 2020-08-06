@@ -80,10 +80,10 @@ module.exports = function(grunt) {
 		'src/selectize.js',
 		'src/defaults.js',
 		'src/selectize.jquery.js',
+		'src/selectize/sifter.js',
 	];
 
 	var files_js_dependencies = [
-		'node_modules/sifter/sifter.js',
 		'node_modules/microplugin/src/microplugin.js',
 	];
 
